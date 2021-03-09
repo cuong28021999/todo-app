@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+
+.todo {
+  cursor: pointer;
+}
+.strike {
+  text-decoration: line-through;
+}
+
+.add-form {
+  margin: 20px;
+}
+
+.clear-button{
+  margin: 20px;
+  padding: 8px;
+}
+input[type='text'] {
+  padding: 8px;
+  margin: 8px;
+}
+.add-button{
+  padding: 8px;
+}

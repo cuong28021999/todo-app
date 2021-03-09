@@ -1,0 +1,21 @@
+[{
+    "id": 1,
+    "task": "ReactJS",
+    "complete": false
+  }, {
+    "id": 2,
+    "task": "Angular",
+    "complete": true
+  }, {
+    "id": 3,
+    "task": "Javascript",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "Flutter",
+    "complete": true
+  }, {
+    "id": 5,
+    "task": "React Native",
+    "complete": false
+  }]
